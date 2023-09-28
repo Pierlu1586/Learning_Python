@@ -39,13 +39,40 @@ Created on Thu Sep 28 18:40:09 2023
 # =============================================================================
 
 #2
+
 # =============================================================================
 # def fai2volte(f, value):
 #     f(value)
 #     f(value)
-# 
+#  
 # def stampa_valore(val):
 #     print(val)
-#     
+#      
 # fai2volte(stampa_valore, 'Prova')
 # =============================================================================
+
+#3
+
+# =============================================================================
+# def fai2volte(f, value):
+#     f(value)
+#     f(value)
+#   
+# def stampa2volte(bruce):
+#     print(bruce)
+#     print(bruce)
+#       
+# fai2volte(stampa2volte, 'spam')
+# =============================================================================
+
+#4
+
+def fai_quattro(f, value):
+    f(value)
+    f(value)
+   
+def stampa2volte(bruce):
+    print(bruce)
+    print(bruce)
+       
+fai_quattro(stampa2volte, 'spam')
