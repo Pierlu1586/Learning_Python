@@ -176,5 +176,4 @@ def disegnaGriglia4X4():
     createEntireHLine()
     
 disegnaGriglia4X4()
-
     
