@@ -7,6 +7,7 @@ Created on Thu Oct  5 08:31:48 2023
 """
 
 # Curva di Koch (Koch snowflake)
+# Riguardare attentamente il codice. Analizzarlo e migliorarlo.
 
 import turtle
 
